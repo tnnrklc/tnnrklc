@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tnnrklc
-- 👀 I’m interested in artiﬁcial intelligence and machine learning
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me https://www.linkedin.com/in/tennurklc/
 
